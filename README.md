@@ -10,5 +10,5 @@ Using Spotify API and my personal streaming data, I have analyzed my daily and m
 ●	I used Python packages including Pandas, Numpy, and Plotly in order to create data structures and bubble map
 
 
-Snapshot at 9AM: 
-![alt text](file:///Users/JiIn/Spotify/file.html)
+Example Plot: 
+![alt text](https://github.com/magiclite/Spotify-Data-Exploration/blob/master/my_favorite_genre.png)
