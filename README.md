@@ -3,6 +3,7 @@
 Using Spotify API and my personal streaming data, I analyzed my daily and monthly Spotify usage behavior and my taste in music (e.g. my favorite genres, artists, and tracks). I used data vizualization packages such as plotly to create interactive charts that highlight some of the findings. 
 
 **Data Extraction & API**
+
 ●	I requested my streaming data from Spotify in json files, which includes all of my streaming data from March 2019 to March 2020. 
 
 ●	The data about artists and tracks were pulled from Spotify web API, called "spotipy" (<https://spotipy.readthedocs.io/en/latest/#>).
