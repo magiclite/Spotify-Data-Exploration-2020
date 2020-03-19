@@ -1,4 +1,4 @@
-##Spotify Data Exploration##
+## Spotify Data Exploration ##
 
 Using Spotify API and my personal streaming data, I analyzed my daily and monthly Spotify usage behavior and my taste in music (e.g. my favorite genres, artists, and tracks). I used data vizualization packages such as plotly to create interactive charts that highlight some of the findings. 
 
