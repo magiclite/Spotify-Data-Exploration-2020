@@ -11,4 +11,4 @@ Using Spotify API and my personal streaming data, I have analyzed my daily and m
 
 
 Example Plot: 
-![alt text](https://github.com/magiclite/Spotify-Data-Exploration/blob/master/my_favorite_genre.png)
+![alt text](https://github.com/magiclite/Spotify-Data-Exploration/blob/master/images/my_favorite_genre.png)
