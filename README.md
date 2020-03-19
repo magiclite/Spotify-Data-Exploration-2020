@@ -6,7 +6,7 @@ Using Spotify API and my personal streaming data, I analyzed my daily and monthl
 
 ●	I requested my streaming data from Spotify in json files, which includes all of my streaming data from March 2019 to March 2020. 
 
-●	The data about artists and tracks were pulled from Spotify web API, called "spotipy" (<https://spotipy.readthedocs.io/en/latest/#>).
+●	The data about artists and tracks were pulled from the Spotify web API, using a library called "spotipy" (<https://spotipy.readthedocs.io/en/latest/#>).
 
 ●	I used Python packages including Pandas, Numpy, and Plotly in order to create data structures and interactive data vizualizations.
 
